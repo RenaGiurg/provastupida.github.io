@@ -1,0 +1,37 @@
+ body {
+    background-color: #464C5E;
+ 
+    }
+    
+.titolo {
+    font-size: xx-large;
+    color: #00FF98 ;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+.sottotitolo {
+    font-size: larger;
+    color:#449474;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }   
+
+p {
+    color: #4a8b71;
+    font-size: medium;
+    text-align: center;
+    text-justify: inter-word;
+    display: flex;
+    justify-content: center;
+    }
+
+.centro { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
