@@ -36,6 +36,20 @@ p {
     align-items: center;
     }
 
+.centrob { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+
+.centrob iframe {
+    outline-style: groove;
+    outline-width: 10px;
+    outline-color: #00FF98;
+}
+
 .navbar {
     display: flex;
     position: sticky;
