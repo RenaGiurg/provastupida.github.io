@@ -1,0 +1,14 @@
+ body {
+    background-color: mediumaquamarine;
+ 
+    }
+    
+h1,h2 {
+    color:darkblue;
+    }
+ 
+.centro { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
