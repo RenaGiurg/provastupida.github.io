@@ -35,3 +35,28 @@ p {
     justify-content: center;
     align-items: center;
     }
+
+.navbar {
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #075888;
+    background-size: cover;
+    padding: 10px 20px;
+    top: 0px;
+    }
+.navlist {
+    display: flex;
+    list-style: none;
+}
+.navlist li {
+    margin-right: 20px;
+}
+
+.navlist li:last-child {
+    margin-right: 0;
+}
+.navlist li a:hover {
+    color:#00FF98
+}
